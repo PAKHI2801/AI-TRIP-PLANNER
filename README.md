@@ -63,8 +63,6 @@ AI Trip Planner is a smart travel application that generates a unique itinerary 
 
 * Clone the project repository from GitHub
 
-* Navigate to the ai-trip-planner folder  , and run:
-
 * npm install → to install React dependencies Node.js & Express dependencies
 
 * npm run dev → to run the development server
