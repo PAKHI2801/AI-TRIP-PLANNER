@@ -57,7 +57,7 @@ AI Trip Planner is a smart travel application that generates a unique itinerary 
 
 ## SETUP & INSTALLATION 💻
 
-* **NOTE : FRONTENED AND BACKEND ARE WHITHIN SAME FOLDER NO SEPARATED DIR LIKE FRONTENED AND BACKEND NAMED.**
+* **NOTE : FRONTENED AND BACKEND ARE WHITHIN SAME FOLDER NO SEPARATED DIR LIKE FRONTEND AND BACKEND NAMED.**
 
 * Install Node.js and npm (latest stable versions)
 
